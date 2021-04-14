@@ -8,5 +8,5 @@ Welcome, fellow humans. I am ReinFS, currently residing in Indonesia for a centu
 - JS 
 
 ## Currently Working On
-- Dropsee
-- PriceMon
+- Dropsee (private)
+- PriceMon (private)
