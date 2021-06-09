@@ -1,12 +1,14 @@
-# Hello, Comrades!
+# ReinFS
 
-I am ReinFS, currently residing in Indonesia for a century.
+> "Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt." 
+> 
+> -- Sun Tzu : Art of War
 
 ## My Favorite Programming Language 
 - Python 
-- C(++)
-- JS 
+- C/C++
+- JS / TS
+- CSS (i know, it is a pain in the brain.)
 
 ## Currently Working On
-- Dropsee (private)
-- PriceMon (private)
+- \*secret\*
